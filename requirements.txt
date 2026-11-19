@@ -1,0 +1,9 @@
+torch>=2.2
+transformers>=4.45,<5.0
+accelerate>=0.34
+safetensors>=0.4
+pillow>=10.0
+soundfile>=0.12
+pytest>=8.0
+# Optional local Gradio interface:
+# gradio>=4.44

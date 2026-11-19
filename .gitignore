@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.wav
+*.mp3
+*.webm
+*.mp4
+*.egg-info/
+.DS_Store
+.env
